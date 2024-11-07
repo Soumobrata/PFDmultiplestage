@@ -16,7 +16,7 @@ project:
 pinout:
   # Inputs
   ui[0]: "Logic 1"
-  ui[1]: "Vco"
+  ui[1]: "VCO"
   ui[2]: "REF"
   ui[3]: ""
   ui[4]: ""
